@@ -11,6 +11,16 @@ Text Search Quickly, search for specific items with the text search functionalit
 ![image](https://github.com/user-attachments/assets/3d08c388-bde9-4a80-858a-01459f3ab957)
 
 
+
 Category Search, select category to browse through categories with ease. Below are previews of the category search feature.
 
 ![image](https://github.com/user-attachments/assets/5985281e-876c-4272-a0b4-af1fcea27f47)
+
+
+Example:
+
+![image](https://github.com/user-attachments/assets/81b5631d-6684-4256-bd04-422d03230fd3)
+
+![image](https://github.com/user-attachments/assets/cd164a3e-b3a0-4194-926b-5e12410595a5)
+
+
